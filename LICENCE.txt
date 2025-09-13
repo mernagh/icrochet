@@ -1,0 +1,13 @@
+iCrochet Commercial License
+
+Copyright (c) 2025 Thomas Mernagh
+
+Permission is hereby granted to the Licensee to use this software for personal or commercial purposes, subject to the following conditions:
+
+1. The Licensee may not distribute, copy, modify, or sublicense the software without explicit written permission from the Copyright Holder.
+2. The software is provided "as is", without warranty of any kind, express or implied.
+3. Any use of the software for commercial purposes must comply with this license agreement.
+4. The Licensee agrees not to reverse-engineer, decompile, or attempt to derive source code from the software.
+5. All rights not explicitly granted are reserved by the Copyright Holder.
+
+For inquiries about purchasing additional licenses or enterprise use, contact: <your-email-or-website>.

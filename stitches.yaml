@@ -1,0 +1,9 @@
+stitches:
+  simple: "o"
+  cross: "x"
+  star: "*"
+
+colours:
+  a: "#FF0000"   # red
+  b: "#0000FF"   # blue
+  c: "#00FF00"   # green
